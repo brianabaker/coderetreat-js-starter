@@ -1,0 +1,13 @@
+{
+  "name": "coderetreat-js-starter",
+  "version": "0.1.0",
+  "description": "CodeRetreat Javascript starter",
+  "main": "index.html",
+  "author": "Nikolay Kolesnikov",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
